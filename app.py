@@ -61,6 +61,7 @@ def update_chart(selected_region):
     return fig
 
 
+
 # Run server
 if __name__ == "__main__":
     app.run(debug=True)
